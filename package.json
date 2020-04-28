@@ -1,0 +1,28 @@
+{
+  "name": "emergency-server",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "del": "^2.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.6.2",
+    "morgan": "^1.10.0",
+    "superlogin": "^0.6.1"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "node-pre-gyp": "^0.14.0",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
+  }
+}
