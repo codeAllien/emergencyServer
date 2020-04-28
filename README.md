@@ -12,3 +12,7 @@ This Node.JS Application allows the connection between the IONIC app and the Mon
 node server
 `````
 4. Now you server is up and running.
+
+
+## Author:
+* Giulia Gallico - [codeAllien](https://github.com/codeAllien)
