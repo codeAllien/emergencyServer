@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "http": "0.0.0",
     "method-override": "^2.3.10",
-    "mongoose": "^4.6.2",
+    "mongoose": "^4.13.21",
     "morgan": "^1.10.0",
     "superlogin": "^0.6.1"
   },
